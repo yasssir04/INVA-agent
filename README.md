@@ -9,6 +9,13 @@ INVA Agent (AI Investment Analyst) is a Streamlit + FastAPI app that acts as a j
 
 The app demonstrates a full RAG + multi‑step reasoning pipeline on Azure, built to be easy to run locally but architected like a real product POC.
 
+
+🧠📊💼  
+Category: Reasoning Agents  
+My project: https://innovationstudio.microsoft.com/hackathons/Agents-League-Hackathon/project/125265  
+My repository: https://github.com/yasssir04/INVA-agent  
+My video: https://youtu.be/-_k7X61dZP0
+
 ---
 
 ## Why this problem exists now
