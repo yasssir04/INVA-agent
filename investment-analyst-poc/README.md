@@ -1,4 +1,4 @@
-# AI Investment Analyst POC
+# AI Investment Analyst Mulit Agent System
 
 AI Investment Analyst is a Streamlit plus FastAPI application for two workflows:
 
