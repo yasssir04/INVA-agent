@@ -13,8 +13,8 @@ The app demonstrates a full RAG + multi‑step reasoning pipeline on Azure, buil
 🧠📊💼  
 Category: Reasoning Agents  
 My project: https://innovationstudio.microsoft.com/hackathons/Agents-League-Hackathon/project/125265  
-My repository: https://github.com/yasssir04/INVA-agent  
-My video: https://youtu.be/-_k7X61dZP0
+github repository: https://github.com/yasssir04/INVA-agent  
+Youtube video demo: https://youtu.be/-_k7X61dZP0
 
 ---
 
